@@ -23,17 +23,15 @@ This is a line from RStudio - Ji Xian Fu
 
 This is also a line from RStudio ~ Blake  
 
-This is a line from Rstudio - Srishti
-
-One issue we ran into was committing the file. I had to enter my global
-email for my changes to commit- Blake  
+This is a line from Rstudio - Srishti \## Probelems: One issue we ran
+into was committing the file. I had to enter my global email for my
+changes to commit- Blake  
 Another issue was getting the file to show up when pulling and pushing
 to git. We needed to save the file and make sure the check mark was
 selected - Brietta  
 One problem I faced was when local repo is behind the remote version.
 All we had to do was pull before push - Ji Xian Fu  
-
-## Steps:
-
-1.  The first step was to clone the repo to RStudio
-2.  Then, we all added our own changes to the .Rmd file
+A problem I faced was that while trying to pull there was a conflict and
+need to fix it on the terminal - Srishti  
+\## Steps: 1. The first step was to clone the repo to RStudio 2. Then,
+we all added our own changes to the .Rmd file
