@@ -4,28 +4,32 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
 
-All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
-Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-    This is a line from RStudio ~ Brietta 
-    
-    This is a line from RStudio - Ji Xian Fu    
-    This is also a line from RStudio ~ Blake    
-    This is a line from Rstudio - Srishti    
 
-    Problems:
-    One issue we ran into was committing the file. I had to enter my global email for my changes to commit- Blake
-    Another issue was getting the file to show up when pulling and pushing to git.  We needed to save the file and make sure the check mark was selected - Brietta
+This is a line from RStudio \~ Brietta\
+This is a line from RStudio - Ji Xian Fu\
+This is also a line from RStudio \~ Blake\
+This is a line from Rstudio - Srishti\
 
-Steps:
+## Problems:
+One issue we ran into was committing the file. I had to enter my global email for my changes to commit- Blake\
+Another issue was getting the file to show up when pulling and pushing to git. We needed to save the file and make sure the check mark was selected - Brietta\
+One problem I faced was when local repo is behind the remote version. All we had to do was pull before push - Ji Xian Fu\
+A problem I faced was that while trying to pull there was a conflict and need to fix it on the terminal - Srishti\
+
+## Steps:\
+
+1. The first step was to clone the repo to RStudio\
+2. Then, we all added our own changes to the .Rmd file\
+
