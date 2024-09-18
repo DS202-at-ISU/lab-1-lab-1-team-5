@@ -38,3 +38,4 @@ need to fix it on the terminal - Srishti
 
 1.  The first step was to clone the repo to RStudio  
 2.  Then, we all added our own changes to the .Rmd file  
+3.  Lastly we Committed and pushed the changes through  
