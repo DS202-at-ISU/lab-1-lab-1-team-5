@@ -22,3 +22,5 @@ This is a line from RStudio ~ Brietta
 This is a line from RStudio - Ji Xian Fu
 This is also a line from RStudio ~ Blake
 This is a line from Rstudio - Srishti
+
+One issue we ran into was committing the file. I had to enter my global email for my changes to commit
