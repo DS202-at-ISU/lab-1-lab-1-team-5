@@ -32,5 +32,5 @@ A problem I faced was that while trying to pull there was a conflict and need to
 
 1. The first step was to clone the repo to RStudio\
 2. Then, we all added our own changes to the .Rmd file\
-3. Lastly we Committed and pushed the changes though\
+3. Lastly we Committed and pushed the changes through\
 
