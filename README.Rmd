@@ -32,4 +32,4 @@ One problem I faced was when local repo is behind the remote version. All we had
 ## Steps:
 1. The first step was to clone the repo to RStudio
 2. Then, we all added our own changes to the .Rmd file
-3. Lastly, we pushed and pulled the changes to
+3. Lastly, we pushed and pulled the changes to Git
