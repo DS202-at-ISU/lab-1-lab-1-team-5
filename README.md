@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,12 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+This is a line from RStudio ~ Brietta This is a line from RStudio - Ji
+Xian Fu This is also a line from RStudio ~ Blake This is a line from
+Rstudio - Srishti
+
+One issue we ran into was committing the file. I had to enter my global
+email for my changes to commit- Blake Another issue was getting the file
+to show up when pulling and pushing to git. We needed to save the file
+and make sure the check mark was selected - Brietta
