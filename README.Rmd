@@ -30,6 +30,6 @@ Another issue was getting the file to show up when pulling and pushing to git. W
 One problem I faced was when local repo is behind the remote version. All we had to do was pull before push - Ji Xian Fu\
 
 ## Steps:
-1. The first step was to clone the repo to RStudio
-2. Then, we all added our own changes to the .Rmd file
-3. Lastly, we pushed and pulled the changes to Git
+1. The first step was to clone the repo to RStudio\
+2. Then, we all added our own changes to the .Rmd file\
+3. Lastly, we pushed and pulled the changes to Git\
