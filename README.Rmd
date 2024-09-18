@@ -23,3 +23,4 @@ This is also a line from RStudio ~ Blake
 This is a line from Rstudio - Srishti
 
 One issue we ran into was committing the file. I had to enter my global email for my changes to commit- Blake
+Another issue was getting the file to show up when pulling and pushing to git.  We needed to save the file and make sure the check mark was selected - Brietta
